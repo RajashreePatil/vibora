@@ -1,19 +1,19 @@
 {
 	"gammaAccess": {
-		"url": "http://192.168.2.188:3000",
-		"userName": "windows7@mygamma.io",
-		"password": "gamma123"
+		"url": "",
+		"userName": "",
+		"password": ""
 	},
 	"repositories": [{
 			"repository": {
-				"uid": "5041ed0cea0be1b616c3ea1987a66895",
+				"uid": "4f0e7a5444791f6555051ee9a1c20303",
 				"projectName": "gamma",
 				"sources": {
-					"baseDir": "$WORKSPACE",
+					"baseDir": "",
 					"exclusions": ["exclusion_regex", "exclusion_regex"]
 				}
 			},
-			"dataDir": "$GAMMA_DATA",
+			"dataDir": "",
 			"modules": {
 				"codeissues": [{
 						"name": "pylint"
